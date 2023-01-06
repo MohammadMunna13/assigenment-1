@@ -1,0 +1,117 @@
+.banner{
+   background-image: url(images/banner/banner1.png);
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-position: center;  */
+    /* width: 1600px; */
+    height: 808px;
+    /* left: 1600px; */
+    /* top: 1000px; */
+
+    
+} 
+
+.banner-div{
+
+    /* display: flex; */
+    text-align: right;
+
+
+
+}
+
+.header{
+    
+    margin-right: 20%;
+    padding-top: 16%;
+    font-weight: 700;
+    font-size: 65px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+
+
+}
+
+.header-discription{
+
+    margin-right: 20%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    display:inline-block;
+    padding-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.button{
+
+    height: 40px;
+    background-color: #fd6e0a;
+    color: #e8e6e4;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 0px; 
+    border: 0;
+    padding: 18px px;  
+    margin-top: 30px;
+    margin-bottom: 20px; 
+    margin-right: 20%;
+}
+
+.first p,img{
+
+    margin-left: 5%;
+    margin-right: 0;
+    
+   
+}
+
+.first{
+    background-image: url(images/header_bg.png);
+    background-position: bottom left , right;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+#display{
+    display: flex;
+}
+
+.header2{
+
+    
+    padding-top: 30%;
+    font-weight: 700;
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+
+}
+
+.header2-discription{
+
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 20px;
+    display:contents;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #444343;
+  margin-bottom: 5%;
+
+
+}
+
+.header2-list{
+    
+    font-size: 16px;
+    line-height: 35px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #444343;
+   
+
+
+}
