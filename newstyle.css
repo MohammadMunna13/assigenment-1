@@ -146,5 +146,18 @@ h3{
     font-size: 25px;
     margin-right: 10%;
     display:inline-block;
+}
 
+.Blend{
+    background-image: url(images/gradient2.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    /* background-position: center;  */
+    /* width: 1600px; */
+    height: 900px;
+    margin-left:25%;
+    
+    
+
+   
 }
