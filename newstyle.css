@@ -70,10 +70,11 @@
 }
 
 .first{
-    background-image: url(images/header_bg.png);
-    background-position: bottom left , right;
+    background-image: url(images/aaaaaaaaa.png);
+    background-position: 15% 70% ;
     background-repeat: no-repeat;
-    background-size: 40%;
+    background-size: 34%;
+    margin-left: 10%;
 }
 
 #display{
@@ -99,7 +100,7 @@
     display:contents;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #444343;
-  margin-bottom: 5%;
+    margin-bottom: 5%;
 
 
 }
@@ -115,3 +116,8 @@
 
 
 }
+
+/* .fa-solid fa-check{
+
+    color: #6fd00f;     ( No Idea How To Color those Correct Mark )
+} */
