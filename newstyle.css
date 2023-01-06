@@ -121,3 +121,30 @@
 
     color: #6fd00f;     ( No Idea How To Color those Correct Mark )
 } */
+
+h3{
+
+    text-align: center;
+    margin-top: 15%;
+    font-weight: 700;
+    font-size: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.Icon{
+   display: flex;
+   padding-left: 13%;
+   gap: 10%;
+   margin-top: 5%;
+   margin-bottom: 10%;
+}
+
+.caption{
+
+    font-weight: 900;
+    font-size: 25px;
+    margin-right: 10%;
+    display:inline-block;
+
+}
