@@ -196,6 +196,57 @@ font-size: 20px;
      border-radius: 5%;
   }    
 
+
+
+
+
+
+
+
+  .get-my-update{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.update-text{
+    text-align: center;
+}
+.update-text h1{
+    font-size: 40px;
+}
+.update-text p{
+    font-size: 20px;
+}
+.mail-box{
+    text-align: center;
+    padding: 60px 60px;
+    width: 50%;
+    margin-left: 350px;
+    background-color: rgba(247, 220, 188, 0.727);
+}
+.mail-button{
+    font-size: 16px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+}
+#subscribe{
+    background-color:rgba(245, 84, 76, 0.847) ;
+    color: antiquewhite;
+}
+#mail{
+    background-color: rgb(222, 217, 217);
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
  /* Footer */
 
  .bg{
