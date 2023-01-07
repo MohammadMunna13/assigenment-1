@@ -1,197 +1,265 @@
 .banner{
-   background-image: url(images/banner/banner1.png);
+    background-image: url(images/banner/banner1.png);
+     
+     background-size: 100%;
+     background-repeat: no-repeat;
+     /* background-position: center;  */
+     /* width: 1600px; */
+     height: 808px;
+     /* left: 1600px; */
+     /* top: 1000px; */
+ 
+     
+ } 
+ 
+ .banner-div{
+ 
+     /* display: flex; */
+     text-align: right;
+ 
+ 
+ 
+ }
+ 
+ .header{
+     
+     margin-right: 20%;
+     padding-top: 16%;
+     font-weight: 700;
+     font-size: 65px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+ 
+ 
+ }
+ 
+ .header-discription{
+ 
+     margin-right: 20%;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 26px;
+     display:inline-block;
+     padding-top: 0%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ 
+ }
+ 
+ .button{
+ 
+     height: 40px;
+     background-color: #fd6e0a;
+     color: #e8e6e4;
+     font-weight: 700;
+     font-size: 15px;
+     line-height: 0px; 
+     border: 0;
+     padding: 18px px;  
+     margin-top: 30px;
+     margin-bottom: 20px; 
+     margin-right: 20%;
+     border-radius: 5%;
+ }
+ 
+ .first p,img{
+ 
+     margin-left: 5%;
+     margin-right: 0;
+     
     
-    background-size: 100%;
-    background-repeat: no-repeat;
-    /* background-position: center;  */
-    /* width: 1600px; */
-    height: 808px;
-    /* left: 1600px; */
-    /* top: 1000px; */
-
+ }
+ 
+ .first{
+     background-image: url(images/aaaaaaaaa.png);
+     background-position: 15% 70% ;
+     background-repeat: no-repeat;
+     background-size: 34%;
+     margin-left: 10%;
+ }
+ 
+ #display{
+     display: flex;
+ }
+ 
+ .header2{
+ 
+     
+     padding-top: 30%;
+     font-weight: 700;
+     font-size: 50px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+ 
+ }
+ 
+ .header2-discription{
+ 
+     font-weight: 400px;
+     font-size: 16px;
+     line-height: 20px;
+     display:contents;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: #444343;
+     margin-bottom: 5%;
+ 
+ 
+ }
+ 
+ .header2-list{
+     
+     font-size: 16px;
+     line-height: 35px;
+     margin-right: 50%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: #444343;
     
-} 
-
-.banner-div{
-
-    /* display: flex; */
-    text-align: right;
-
-
-
-}
-
-.header{
-    
-    margin-right: 20%;
-    padding-top: 16%;
-    font-weight: 700;
-    font-size: 65px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-
-
-
-}
-
-.header-discription{
-
-    margin-right: 20%;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
-    display:inline-block;
-    padding-top: 0%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-
-}
-
-.button{
-
-    height: 40px;
-    background-color: #fd6e0a;
-    color: #e8e6e4;
-    font-weight: 700;
-    font-size: 15px;
-    line-height: 0px; 
-    border: 0;
-    padding: 18px px;  
-    margin-top: 30px;
-    margin-bottom: 20px; 
-    margin-right: 20%;
-    border-radius: 5%;
-}
-
-.first p,img{
-
-    margin-left: 5%;
-    margin-right: 0;
-    
-   
-}
-
-.first{
-    background-image: url(images/aaaaaaaaa.png);
-    background-position: 15% 70% ;
-    background-repeat: no-repeat;
-    background-size: 34%;
-    margin-left: 10%;
-}
-
-#display{
+ 
+ 
+ }
+ 
+ .i{
+ 
+     color: #6fd00f;     ( No Idea How To Color those Correct Mark )
+ } 
+ 
+ h3{
+ 
+     text-align: center;
+     margin-top: 15%;
+     font-weight: 700;
+     font-size: 60px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+ }
+ 
+ .Icon{
     display: flex;
+    padding-left: 13%;
+    gap: 0%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+ }
+ 
+ .caption1{
+ 
+     font-weight: 700;
+     font-size: 20px;
+     padding-left: 10%;
+     padding-right : 50%;
+     display:inline-block;
+ }
+ 
+ .caption2{
+ 
+    padding-left: 13%;
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 0px;
+     text-align: center;
+     color: #737272;
+     margin-right: 35%;
+     display:contents;
+ 
+ }
+ .Blend{
+     background-image: url(images/gradient1.png),url(images/watch.png);
+     background-size: 70%;
+     background-repeat: no-repeat;
+     /* background-position: center;  */
+     /* width: 1600px; */
+     height: 900px;
+     margin-left:25%;
+    
+ }
+ 
+ .Blend p{
+ 
+ 
+     padding-left: 5%;
+     padding-top: 3%; 
+     line-height: 90%;
+     font-family: 'Work Sans';
+     font-weight: 700;
+     font-size: 40px;
+     color: #FFFFFF;  
+     }
+ 
+  .Blend button{
+     margin-left:5%;
+     width: 130px;
+     height: 40px;
+     background-color: #ffffff;
+     color: #e17204;
+     font-weight: 700;
+     font-size: 15px;
+     border: 0;
+     border-radius: 5%;
+  }    
+
+ /* Footer */
+
+.footer{
+    display: flex;
+   
+    background: #141210;
+
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2652.26px;   
+    
 }
 
-.header2{
+.footer{
+color: #e8e6e4;
+}
 
-    
-    padding-top: 30%;
+.future-tag{
+    padding-left: 5%;
     font-weight: 700;
     font-size: 50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-
-
 }
 
-.header2-discription{
-
-    font-weight: 400px;
-    font-size: 16px;
-    line-height: 20px;
-    display:contents;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #444343;
-    margin-bottom: 5%;
-
-
-}
-
-.header2-list{
-    
-    font-size: 16px;
-    line-height: 35px;
-    
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #444343;
-   
-
-
-}
-
-.i{
-
-    color: #6fd00f;     ( No Idea How To Color those Correct Mark )
-} 
-
-h3{
-
-    text-align: center;
-    margin-top: 15%;
-    font-weight: 700;
-    font-size: 60px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-
-}
-
-.Icon{
-   display: flex;
-   padding-left: 13%;
-   gap: 10%;
-   margin-top: 5%;
-   margin-bottom: 10%;
-}
-
-.caption1{
-
-    font-weight: 900;
-    font-size: 25px;
-    margin-right: 10%;
-    display:inline-block;
-}
-
-.caption2{
-
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 0px;
-    text-align: center;
-    color: #737272;
-    margin-right: 35%;
-    display:inline-flex;
-
-}
-.Blend{
-    background-image: url(images/gradient1.png),url(images/watch.png);
-    background-size: 70%;
-    background-repeat: no-repeat;
-    /* background-position: center;  */
-    /* width: 1600px; */
-    height: 900px;
-    margin-left:25%;
-   
-}
-
-.Blend p{
-
-
-    padding-left: 5%;
-    padding-top: 3%; 
-    line-height: 90%;
+.future-dis,p {
+    padding-left: 30%;
     font-family: 'Work Sans';
+    /* font-weight: 400;
+    font-size: 16px;
+    line-height: 26px; */
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    
+    gap: 100px;
+    
+}
+
+.img{
+    padding-left: 25%;
+}
+
+.subscribe p{
+
+    margin-left: 50%;
+    margin-top: 10%;
     font-weight: 700;
-    font-size: 40px;
-    color: #FFFFFF;  
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+[type='email']{
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 25px;
+    border: 0;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    padding: 10px 20px;
     }
 
- .Blend button{
-    margin-left:5%;
-    width: 130px;
-    height: 40px;
-    background-color: #ffffff;
-    color: #e17204;
-    font-weight: 700;
-    font-size: 15px;
-    border: 0;
-    border-radius: 5%;
- }   
+
+
 
